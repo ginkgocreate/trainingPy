@@ -1,0 +1,2 @@
+# trainingPy
+i trainning python
